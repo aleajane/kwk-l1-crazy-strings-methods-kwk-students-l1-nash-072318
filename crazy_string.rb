@@ -5,4 +5,4 @@ puts 5 != 4
 
 puts !true
 
-puts !happy 
+puts !4
