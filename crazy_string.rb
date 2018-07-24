@@ -5,3 +5,5 @@ def crazy_strings(statement = "Hello Friends".reverse.upcase)
 end
 
 crazy_strings.rb 
+
+puts 5=4 
