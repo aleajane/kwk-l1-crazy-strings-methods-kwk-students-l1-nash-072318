@@ -1,4 +1,3 @@
 # write your method here
 
-
-puts 3 + 4 && 4 + 5
+puts 5 < 4 || 3 > 0 
